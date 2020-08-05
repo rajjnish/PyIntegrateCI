@@ -1,2 +1,2 @@
 # PyIntegrateCI
-Create CI CD Pipeline for the Sample Prj
+Create CI CD Pipeline with GitHub Actions for the Sample Prj
